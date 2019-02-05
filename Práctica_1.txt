@@ -47,5 +47,5 @@ compu + 1
 
 9. ¿Cuáles son las tres funciones que puedes usar para obtener la versión entera, flotante y cadena de un valor?
 
-10. ¿Cuál es la diferencia entre asignar una variable y una expresión?
+10. Investiga qué es lo que hace la función round() en Python.
 
